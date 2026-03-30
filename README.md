@@ -45,14 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojac1911\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojac1911\&layout=compact\&hide_border=true)
-
----
-
 ## 🌍 Let's Connect
 
 * 💼 LinkedIn: (Add your link here)
