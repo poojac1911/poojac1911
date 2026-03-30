@@ -34,17 +34,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-* 🔹 **ExpensePal** – Smart expense tracking app
-  👉 https://github.com/poojac1911/ExpensePal
-
-* 🔹 **SereNote** – AI-powered gratitude journaling app (KMM)
-
-* 🔹 **StoryCraft** – AI story builder using KMM + Gemini
-
----
-
 ## 🌍 Let's Connect
 
 * 💼 LinkedIn: linkedin.com/in/poojachoudhary1911/
