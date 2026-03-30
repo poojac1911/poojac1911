@@ -47,8 +47,8 @@
 
 ## 🌍 Let's Connect
 
-* 💼 LinkedIn: (Add your link here)
-* 📧 Email: (Add your email here)
+* 💼 LinkedIn: linkedin.com/in/poojachoudhary1911/
+* 📧 Email: choudharypooja0107@gmail.com
 
 ---
 
